@@ -1,0 +1,393 @@
+
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+   
+    .slider-right-img {
+        margin-left: -245px;
+    }
+
+    .slider-content h2 {
+        font-size: 67px;
+    }
+
+   .modal-dialog {
+       right: 60px;
+       top: 114px;
+   }
+    
+
+
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+    .slider-content {
+        padding-top: 300px;
+    }
+  
+    .slider-area {
+        height: 750px;
+    }
+
+    .video-content h2 {
+        font-size: 46px;
+    }
+    .creative-content {
+        margin-top: -25px;
+    }
+
+    .quote-area {
+        background-position: top;
+        background-size: cover;
+    }
+
+    .testimonial-img::before {
+        left: 275px;
+    }
+
+    .testimonial-img::after {
+        right: 275px;
+    }
+
+    .modal-dialog {
+        position: absolute;
+        right: 60px;
+        top: 112px;
+        width: 100%;
+    }
+
+
+
+
+
+
+}
+
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+    .topbar .cta span {
+        margin-right: 20px;
+    }
+
+    .header-right {
+        margin-left: 0;
+        margin-right: 55px;
+        margin-top: -11px;
+    }
+
+    .mean-container a.meanmenu-reveal {
+        margin-right: -13px;
+    }
+
+    .main-menu ul li {
+        margin-right: 15px;
+    }
+
+    .header-right {
+        margin-left: 18px;
+    }
+
+    .slider-content h2 {
+        font-size: 55px;
+        color: #fff;
+        line-height: 1.1;
+    }
+
+    .slider-content {
+        padding-top: 290px;
+    }
+
+    .slider-area {
+        height: 740px;
+    }
+
+    .skill-content h3 {
+        padding-right: 0;
+        font-size: 25px;
+    }
+
+    .skill-content-right h3 {
+        font-size: 25px;
+        padding-right: 0;
+    }
+
+     .skill-content p {
+         padding-right: 0;
+     }
+
+
+    .video-content h2 {
+        font-size: 35px;
+    }
+
+    .video-area {
+        height: 390px;
+    }
+
+    .counter-are .col-md-4 {
+        padding: 0;
+    }
+
+    .section-title h2 {
+        font-size: 45px;
+    }
+
+    .team-wrapper {
+        width: 33.33%;
+        float: right;
+    }
+
+    .quote-area {
+        background-position: top;
+        background-size: cover;
+    }
+
+    .quote-title h3 {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+
+    .quote-area .qr {
+        margin-left: 8.667%;
+    }
+
+    .quote-title p {
+        font-size: 14px;
+        padding-right: 53px;
+    }
+
+    .quote-area {
+        padding-top: 85px;
+        padding-bottom: 75px;
+    }
+
+    .testimonial-area {
+        padding-top: 100px;
+    }
+
+    .testimonial-content p {
+        padding: 0;
+    }
+
+    .testimonial-img::before {
+        left: 150px;
+    }
+
+    .testimonial-img::after {
+        right: 150px;
+    }
+
+    .brand-area .owl-carousel .owl-item img {
+        text-align: center;
+        margin: auto;
+    }
+
+  .modal-dialog {
+      position: absolute;
+      right: 59px;
+      top: 129px;
+      width: 100%;
+  }
+
+
+
+
+
+
+
+}
+
+ 
+/* Extra small Device. */
+@media (max-width: 767px) {
+
+    .topbar .cta span {
+        font-size: 11px;
+        margin-right: 15px;
+    }
+
+    .topbar .cta {
+        text-align: center;
+    }
+
+    .topbar-icon {
+        float: none;
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    .mean-container a.meanmenu-reveal {
+        top: -40px;
+    }
+
+    .slider-content h2 {
+        font-size: 35px;
+        line-height: 1;
+    }
+
+    .slider-content p {
+        font-size: 15px;
+        line-height: 1.3;
+        padding: 0;
+    }
+
+    .slider-content {
+        padding-top: 255px;
+    }
+
+    .slider-area {
+        height: 600px;
+    }
+
+    .area-title h2 {
+        font-size: 17px;
+    }
+
+    .skill-content h3 {
+        padding-right: 0;
+        font-size: 23px;
+    }
+
+    .skill-content p {
+        font-size: 12px;
+        padding-right: 0;
+    }
+
+    .skill-area {
+        padding-bottom: 25px;
+        padding-top: 55px;
+    }
+
+    .skill-content-right h3 {
+        padding-right: 0;
+        font-size: 23px;
+    }
+
+    .video-content h2 {
+        font-size: 16px;
+    }
+
+    .video-content p {
+        font-size: 12px;
+    }
+
+    .video-icon {
+        margin-bottom: 25px;
+    }
+
+    .video-area {
+        height: 300px;
+    }
+
+    .counter-wrapper {
+        margin-left: 32px;
+    }
+
+    .counter-are {
+        padding: 55px 0;
+    }
+
+    .creative-area {
+        padding-top: 80px;
+    }
+
+    .creative-text h3 {
+        font-size: 30px;
+    }
+
+    .section-title h2 {
+        font-size: 24px;
+    }
+
+    .event-area {
+        padding: 40px 0;
+    }
+
+    .event-btn {
+        text-align: center;
+        padding-top: 50px;
+    }
+
+    .team-wrapper {
+        width: 100%;
+        position: relative;
+        float: none;
+    }
+
+    .quote-area .qr {
+        margin-left: 1.667%;
+    }
+
+    .quote-title h3 {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+
+    .quote-title p {
+        font-size: 11px;
+        line-height: 18px;
+    }
+
+    .quote-area {
+        background-size: cover;
+        padding: 70px 0;
+    }
+
+    .testimonial-img::before {
+        left: 340px;
+        font-size: 50px;
+    }
+
+    .testimonial-img::after {
+        right: 340px;
+        font-size: 50px;
+
+    }
+
+    .testimonial-content p {
+        padding: 0;
+    }
+
+    .testimonial-area {
+        padding: 80px 0;
+    }
+
+    .brand-area .owl-carousel .owl-item img {
+        text-align: center;
+        margin: auto;
+    }
+
+    .footer-top-wrapper p {
+        margin-top: 40px;
+        margin-bottom: 35px;
+        font-size: 12px;
+        line-height: 1.6;
+    }
+
+    .footer-top-area {
+        padding: 50px 0;
+    }
+
+    .copyright p {
+        color: #838383;
+        font-size: 10px;
+        font-weight: 400;
+        font-family: 'Muli', sans-serif;
+        line-height: 1.8;
+    }
+
+    .brand-area {
+        padding-bottom: 30px;
+    }
+
+    
+
+}
+ 
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+}
